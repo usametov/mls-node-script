@@ -1,0 +1,23 @@
+{
+  "name": "mls-nodejs",
+  "version": "1.0.0",
+  "description": "scrapes mls.ca",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mls-nodejs"
+  },
+  "keywords": [
+    "mls",
+    "nodejs"
+  ],
+  "author": "Alan Samet",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
