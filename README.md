@@ -26,7 +26,7 @@ The end result should look something like this:
 
 ***
 
-After you run the script, you should see the file with listings in the specified directory. You may want to save the above command as shell script and run it, say, once in 3 days.
+After you run the above script, you should see the new file in the output directory. You may want to save the above command as shell script and run it, say, once in 3 days.
  
 This script can download up to 50 pages of MLS listings. This is because of realtor.ca API limit, they don't allow more than 50 calls.
 This works fine though if you want to monitor specific area. 
