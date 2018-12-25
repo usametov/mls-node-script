@@ -1,9 +1,5 @@
 'use strict'
 
-function sleep(millis) {
-  return new Promise(resolve => setTimeout(resolve, millis));
-}
-
 async function getListings(pageNum, dataStr) {
 
 const request = require('request-promise-native');
