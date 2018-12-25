@@ -16,7 +16,7 @@ how to use this script:
 * select api call to api2.realtor.ca/Listing.svc/PropertySearch_Post
 * right-click on it and choose "copy as curl"
 * open terminal (or command prompt)
-* type node main.js <paste your curl string from previous step> 1 50 <output dir of your choice> 
+* type node main.js &lt; paste your curl string from previous step &gt; 1 50 &lt;output dir of your choice &gt; 
 
 The end result should look something like this:
 
